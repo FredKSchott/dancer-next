@@ -1,0 +1,25 @@
+{
+  "name": "dancer-next",
+  "description": "dancer-next is a high-level audio API, usable with the Web Audio API, Mozilla's Audio Data API and flash fallback, designed to make sweet visualizations. It is based off of the original dancer.js by Jordan Santell, modified to include support for module loading, new fixes, and more.",
+  "version": "0.4.0",
+  "homepage": "https://github.com/FredKSchott/dancer-next",
+  "author": {
+    "name": "Fred Schott",
+    "url": "https://FredKSchott.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FredKSchott/dancer-next"
+  },
+  "bugs": {
+    "url": "https://github.com/FredKSchott/dancer-next/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/FredKSchott/dancer-next/blob/master/LICENSE"
+    }
+  ],
+  "devDependencies": {
+  }
+}
